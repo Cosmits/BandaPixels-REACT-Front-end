@@ -1,0 +1,12 @@
+#root {
+    display: flex;
+    justify-content: center;
+}
+
+.post {
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    border: 2px solid gray;
+    border-radius: 20px !important;
+}

@@ -1,0 +1,28 @@
+.mySelect {
+    font-family: Montserrat, sans-serif !important;
+    font-weight: 700;
+    background-image: none;
+    margin: 23px auto 23px 0;
+
+    border-radius: 20px !important;
+
+    color: #ffffff !important;
+    background-color: #242c53 !important;
+    background-color: #f7ce21;
+
+    cursor: pointer;
+    font-size: inherit;
+    line-height: inherit;
+    letter-spacing: inherit;
+    text-transform: inherit;
+    text-decoration: none;
+    border: 0 none transparent;
+    outline-width: 0;
+    font-style: initial;
+    white-space: nowrap;
+    user-select: none;
+    vertical-align: middle;
+    text-align: center;
+    padding: 10px 30px;
+    align-self: flex-start;
+}
